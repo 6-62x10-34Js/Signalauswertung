@@ -22,7 +22,7 @@ pi = pigpio.pi()
 dht22 = DHT.sensor(pi, 4)
 dht22.trigger()
 
-
+asdasd
 sleepTime = 3
 
 def readDHT22():
